@@ -1,0 +1,31 @@
+INFO:     Will watch for changes in these directories: ['/home/workspace']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [145] using StatReload
+INFO:     Started server process [147]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     172.20.0.1:54868 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:52972 - "GET /api/projects HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:52972 - "GET /api/projects HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:52972 - "POST /api/seed HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:52976 - "GET /api/projects HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:52972 - "POST /api/seed HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:52986 - "GET /api/projects HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:52972 - "POST /api/seed HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:52976 - "GET /api/team HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:52994 - "GET /api/projects HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:52976 - "POST /api/seed HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:52972 - "GET /api/projects HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:52976 - "GET /api/team HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:53004 - "GET /api/projects HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:53004 - "GET /api/projects HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:53004 - "GET /api/projects HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:36566 - "GET /api/projects HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:36566 - "POST /api/seed HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:53004 - "POST /api/seed HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:36572 - "POST /api/seed HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:36566 - "POST /api/seed HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:53004 - "GET /api/projects HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:36572 - "GET /api/team HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:36566 - "GET /api/team HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:36572 - "GET /api/projects HTTP/1.1" 500 Internal Server Error
